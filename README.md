@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tanishk
+- 👀 I’m interested in Custom ROM development, rooting, Android automation and customisation.
+- 🌱 I’m currently learning Python and JavaScript.
+- 💞️ I’m looking to collaborate on Open Source projects.
+- 😄 Pronouns: he/him
