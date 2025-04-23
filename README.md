@@ -1,4 +1,4 @@
 - Hi, I’m Tanishk
 - I’m interested in custom ROM development, Android automation and customisation.
-- I’m currently learning Python and JavaScript.
-- I’m looking to collaborate on Open Source projects.
+- Currently learning Python and JavaScript.
+- Looking to collaborate on Open Source projects.
