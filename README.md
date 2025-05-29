@@ -1,4 +1,4 @@
 - Hi, I’m Tanishk, a BCA student.
-- Interested in custom ROM dev, Android automation and customisation.
+- Android automation and customisation.
 - Currently learning Python and JavaScript.
 - Looking to collaborate on Open Source projects.
