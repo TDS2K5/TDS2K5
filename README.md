@@ -1,4 +1,4 @@
 - Hi, I’m Tanishk, a BCA student.
-- Interested in Android automation and customisation.
+- Interested in Linux systems.
 - Currently learning Python and JavaScript.
 - Looking to collaborate on Open Source projects.
