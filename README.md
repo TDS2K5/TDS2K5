@@ -1,4 +1,4 @@
- - Hi, I’m Tanishk, a BCA student.
+ - I’m Tanishk, a final-year BCA student.
  - Interested in Linux systems.
  - Currently learning Python.
  - Looking to collaborate on Open Source projects.
